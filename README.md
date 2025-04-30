@@ -8,31 +8,13 @@
 
 - A passionate Full-stack web developer
 
-- Computer engineering student 
+- Graduated Computer Engineer Field
 
 - Currently using Java (Spring) and Next.js (NestJS) in the back-end
 
 - Currently using React and TypeScript in the front-end
 
 - Currently learning operations part of DevOps and improving code quality by Self
-
-<h1> 🛠Tech Stack</h1>
-<p>
-<img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="80" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"/>
-<br/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/64px-Unofficial_JavaScript_logo_2.svg.png"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/>
-<br/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"/>
-</p>
 
 <h1> ⚙️ GitHub Analytics </h1>
 
